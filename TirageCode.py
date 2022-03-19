@@ -15,3 +15,5 @@ print("And the lucky numbers are")
 print(*lst[0:6], sep="\n")
 print("You're the Winner!")
 print("Raphy GIT!")
+
+#Trying GIT & GitHub
